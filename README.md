@@ -12,6 +12,7 @@ It's really simple:
 - include all images in the folder. 
 - also create a readme.md file in the same folder and insert all images using relative paths 
 in it in the correct sequence of notes.
+- insert the images of notes in the folder's readme.md file via relative paths under appropriate heading and link in the table of contents to it.
 
 >Note: while inserting images in the readme do write an appropriate alt text. [Markdown syntax reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
